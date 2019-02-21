@@ -16,6 +16,8 @@ export default class App extends Component {
 
             <NavigationContainer />
 
+            <hr/>
+
             <Switch>
               <Route exact path="/" component={Home} />
               <Route path="/toggle" component={Toggle} />
