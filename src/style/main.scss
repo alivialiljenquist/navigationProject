@@ -26,3 +26,13 @@ body {
     display: grid;
     justify-items: center;
 }
+
+.links {
+    display: flex;
+    font-weight: 900;
+    font-size: 1.5em;  
+}
+
+.nav-link {
+    padding: 20px;
+}
